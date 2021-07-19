@@ -1,4 +1,18 @@
 # Grocery-Tracking-Program
+This application is desgined for a grocery store and uses both Python and C++ to demonstrate how to integrate two programming languages with an input file.
+
+Using C++, Menu is displayed with 4 options.
+
+Option 1: Python function called and displays every item name (once) and numeric frequecny based on input file.
+
+Option 2: C++ code prompts person for specific item to look up on input file. Item is passed as parameter to python function that displays specific item name and numeric frequency based on input file.
+
+Option 3: Python function reads input file and creates a file, which contains the words and their frequencies. 
+          Also, produces a text-based histogram listing all items purchased in a given day, along with a representation of the number of times each item was purchased.
+
+Option 4: Exit program. Goodbye message is displayed to confirm exit of application.
+
+
 
 Paul Kenaga
 CS 210 Programming Languages
