@@ -14,10 +14,10 @@ Option 4: Exit program. Goodbye message is displayed to confirm exit of applicat
 
 
 
-Paul Kenaga
-CS 210 Programming Languages
-Southern New Hampshire University
-June 17, 2021
+Paul Kenaga-
+CS 210 Programming Languages-
+Southern New Hampshire University-
+June 17, 2021-
 
 Programming Languages Explanation
 
